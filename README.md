@@ -4,7 +4,7 @@
 
 ---
 
-# ## **1. What is Vue.js?**
+## **1. What is Vue.js?**
 
 Vue.js is a progressive JavaScript framework used to build user interfaces. It focuses on the **view layer**, allowing you to start small and scale into full applications using tools like **Vue Router** and **Vuex/Pinia**.
 
